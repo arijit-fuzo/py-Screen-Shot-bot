@@ -70,5 +70,3 @@ MIT License - see [LICENSE](LICENSE).
 - [audioplayer](https://github.com/andrewrk/audioplayer)
 
 ---
-
-This version is more compact, with added emojis to make it engaging! Let me know if you'd like any further tweaks!
